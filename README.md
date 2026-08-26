@@ -9,7 +9,7 @@ Two source systems (CRM and ERP) are ingested from CSV, progressively cleaned
 and standardized, modeled into a **star schema**, and finally analyzed for
 sales trends, growth, and product/customer performance.
 
-![Medallion architecture](assets/architecture.png)
+![Medallion architecture](assets/Archi.png)
 
 ## Architecture — Medallion Layers
 
